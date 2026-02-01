@@ -28,13 +28,13 @@ Download plugins from the [Releases](https://github.com/Crs10259/LenovoLegionToo
 
 3. Build a specific plugin:
    ```bash
-   dotnet build ./ViveTool/LenovoLegionToolkit.Plugins.ViveTool.csproj
+   dotnet build ./plugins/ViveTool/LenovoLegionToolkit.Plugins.ViveTool.csproj
    ```
 
 4. Create a ZIP package for release:
    ```powershell
    # Windows PowerShell
-   Compress-Archive -Path ./ViveTool -DestinationPath ./ViveTool.zip -Force
+   Compress-Archive -Path ./plugins/ViveTool -DestinationPath ./ViveTool.zip -Force
    ```
 
 ### Plugin Structure
@@ -54,12 +54,12 @@ LenovoLegionToolkit-Plugins/
 
 1. Create a new class library project:
    ```bash
-   dotnet new classlib -n LenovoLegionToolkit.Plugins.MyPlugin -o ./MyPlugin
+   dotnet new classlib -n LenovoLegionToolkit.Plugins.MyPlugin -o ./plugins/MyPlugin
    ```
 
 2. Add reference to the SDK:
    ```bash
-   dotnet add ./MyPlugin/LenovoLegionToolkit.Plugins.MyPlugin.csproj reference ./SDK/LenovoLegionToolkit.Plugins.SDK.csproj
+   dotnet add ./plugins/MyPlugin/LenovoLegionToolkit.Plugins.MyPlugin.csproj reference ./plugins/SDK/LenovoLegionToolkit.Plugins.SDK.csproj
    ```
 
 3. Implement the `IPlugin` interface from `LenovoLegionToolkit.Lib.Plugins`
