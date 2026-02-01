@@ -1,0 +1,683 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\plugins\\ViveTool\\LenovoLegionToolkit.Plugins.ViveTool.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.CLI.Lib\\LenovoLegionToolkit.CLI.Lib.csproj": {
+      "version": "3.5.1",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.CLI.Lib\\LenovoLegionToolkit.CLI.Lib.csproj",
+        "projectName": "LenovoLegionToolkit.CLI.Lib",
+        "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.CLI.Lib\\LenovoLegionToolkit.CLI.Lib.csproj",
+        "packagesPath": "C:\\Users\\96152\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.CLI.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96152\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Automation\\LenovoLegionToolkit.Lib.Automation.csproj": {
+      "version": "3.5.1",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Automation\\LenovoLegionToolkit.Lib.Automation.csproj",
+        "projectName": "LenovoLegionToolkit.Lib.Automation",
+        "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Automation\\LenovoLegionToolkit.Lib.Automation.csproj",
+        "packagesPath": "C:\\Users\\96152\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Automation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96152\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Macro\\LenovoLegionToolkit.Lib.Macro.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Macro\\LenovoLegionToolkit.Lib.Macro.csproj"
+              },
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "NeoSmart.AsyncLock": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Macro\\LenovoLegionToolkit.Lib.Macro.csproj": {
+      "version": "3.5.1",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Macro\\LenovoLegionToolkit.Lib.Macro.csproj",
+        "projectName": "LenovoLegionToolkit.Lib.Macro",
+        "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Macro\\LenovoLegionToolkit.Lib.Macro.csproj",
+        "packagesPath": "C:\\Users\\96152\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Macro\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96152\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj": {
+      "version": "3.5.1",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj",
+        "projectName": "LenovoLegionToolkit.Lib",
+        "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj",
+        "packagesPath": "C:\\Users\\96152\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96152\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Ben.Demystifier": {
+              "target": "Package",
+              "version": "[0.4.1, )"
+            },
+            "CoordinateSharp": {
+              "target": "Package",
+              "version": "[3.1.1.1, )"
+            },
+            "LibreHardwareMonitorLib": {
+              "target": "Package",
+              "version": "[0.9.5, )"
+            },
+            "ManagedNativeWifi": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Win32.SystemEvents": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Windows.CsWin32": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.3.183, )"
+            },
+            "NAudio.Wasapi": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "NeoSmart.AsyncLock": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "NvAPIWrapper.Net": {
+              "target": "Package",
+              "version": "[0.8.1.101, )"
+            },
+            "Octokit": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "PubSub": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "System.ServiceProcess.ServiceController": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "TaskScheduler": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "WindowsDisplayAPI": {
+              "target": "Package",
+              "version": "[1.3.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.WPF\\LenovoLegionToolkit.WPF.csproj": {
+      "version": "3.5.1",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.WPF\\LenovoLegionToolkit.WPF.csproj",
+        "projectName": "Lenovo Legion Toolkit",
+        "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.WPF\\LenovoLegionToolkit.WPF.csproj",
+        "packagesPath": "C:\\Users\\96152\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.WPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96152\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.CLI.Lib\\LenovoLegionToolkit.CLI.Lib.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.CLI.Lib\\LenovoLegionToolkit.CLI.Lib.csproj"
+              },
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Automation\\LenovoLegionToolkit.Lib.Automation.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Automation\\LenovoLegionToolkit.Lib.Automation.csproj"
+              },
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Macro\\LenovoLegionToolkit.Lib.Macro.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib.Macro\\LenovoLegionToolkit.Lib.Macro.csproj"
+              },
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj"
+              },
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\Plugins\\SDK\\LenovoLegionToolkit.Plugins.SDK.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\Plugins\\SDK\\LenovoLegionToolkit.Plugins.SDK.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Markdig": {
+              "target": "Package",
+              "version": "[0.40.0, )"
+            },
+            "Markdig.Wpf": {
+              "target": "Package",
+              "version": "[0.5.0.1, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "PixiEditor.ColorPicker": {
+              "target": "Package",
+              "version": "[3.4.2, )"
+            },
+            "WPF-UI": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\Plugins\\SDK\\LenovoLegionToolkit.Plugins.SDK.csproj": {
+      "version": "3.5.1",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\Plugins\\SDK\\LenovoLegionToolkit.Plugins.SDK.csproj",
+        "projectName": "LenovoLegionToolkit.Plugins.SDK",
+        "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\Plugins\\SDK\\LenovoLegionToolkit.Plugins.SDK.csproj",
+        "packagesPath": "C:\\Users\\96152\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\Plugins\\SDK\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96152\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj",
+                "excludeAssets": "all",
+                "privateAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\plugins\\ViveTool\\LenovoLegionToolkit.Plugins.ViveTool.csproj": {
+      "version": "1.5.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\plugins\\ViveTool\\LenovoLegionToolkit.Plugins.ViveTool.csproj",
+        "projectName": "LenovoLegionToolkit.Plugins.ViveTool",
+        "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\plugins\\ViveTool\\LenovoLegionToolkit.Plugins.ViveTool.csproj",
+        "packagesPath": "C:\\Users\\96152\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\plugins\\ViveTool\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\96152\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.Lib\\LenovoLegionToolkit.Lib.csproj"
+              },
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.WPF\\LenovoLegionToolkit.WPF.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\LenovoLegionToolkit.WPF\\LenovoLegionToolkit.WPF.csproj"
+              },
+              "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\Plugins\\SDK\\LenovoLegionToolkit.Plugins.SDK.csproj": {
+                "projectPath": "c:\\Users\\96152\\My-Project\\Application_Project\\Transplant_Project\\LenovoLegionToolkit\\Plugins\\SDK\\LenovoLegionToolkit.Plugins.SDK.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

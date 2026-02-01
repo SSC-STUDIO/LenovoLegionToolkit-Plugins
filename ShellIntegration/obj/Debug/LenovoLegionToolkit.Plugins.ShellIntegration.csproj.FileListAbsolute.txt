@@ -1,0 +1,9 @@
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\ShellIntegration\obj\Debug\LenovoLegionToolkit.Plugins.ShellIntegration.csproj.AssemblyReference.cache
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\ShellIntegration\obj\Debug\ShellIntegrationPage.g.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\ShellIntegration\obj\Debug\ShellIntegrationSettingsPage.g.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\ShellIntegration\obj\Debug\LenovoLegionToolkit.Plugins.ShellIntegration_MarkupCompile.cache
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\ShellIntegration\obj\Debug\LenovoLegionToolkit.Plugins.ShellIntegration_MarkupCompile.lref
+c:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\ShellIntegration\obj\Debug\ShellIntegrationSettingsPage.baml
+c:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\ShellIntegration\obj\Debug\LenovoLegionToolkit.Plugins.ShellIntegration.dll
+c:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\ShellIntegration\obj\Debug\refint\LenovoLegionToolkit.Plugins.ShellIntegration.dll
+c:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\ShellIntegration\obj\Debug\LenovoLegionToolkit.Plugins.ShellIntegration.pdb

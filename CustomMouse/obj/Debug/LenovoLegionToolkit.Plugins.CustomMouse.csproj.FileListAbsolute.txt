@@ -1,0 +1,7 @@
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\CustomMouse\obj\Debug\LenovoLegionToolkit.Plugins.CustomMouse.csproj.AssemblyReference.cache
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\CustomMouse\obj\Debug\LenovoLegionToolkit.Plugins.CustomMouse_MarkupCompile.cache
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\CustomMouse\obj\Debug\CustomMouseExtensionPage.baml
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\CustomMouse\obj\Debug\CustomMouseExtensionPage.g.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\CustomMouse\obj\Debug\CustomMousePage.g.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\CustomMouse\obj\Debug\CustomMouseSettingsPage.g.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\CustomMouse\obj\Debug\LenovoLegionToolkit.Plugins.CustomMouse_MarkupCompile.lref

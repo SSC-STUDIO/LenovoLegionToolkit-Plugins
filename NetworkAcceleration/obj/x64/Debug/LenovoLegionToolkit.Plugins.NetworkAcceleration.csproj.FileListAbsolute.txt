@@ -1,0 +1,44 @@
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.NetworkAcceleration\Lenovo Legion Toolkit.deps.json
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.NetworkAcceleration\Lenovo Legion Toolkit.runtimeconfig.json
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.NetworkAcceleration\llt.deps.json
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.NetworkAcceleration\llt.runtimeconfig.json
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.NetworkAcceleration\llt.exe
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.NetworkAcceleration\Lenovo Legion Toolkit.exe
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.NetworkAcceleration\LenovoLegionToolkit.Plugins.NetworkAcceleration.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.csproj.AssemblyReference.cache
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\Controls\TrafficChartControl.g.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\NetworkAccelerationPage.g.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\NetworkAccelerationSettingsPage.g.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration_MarkupCompile.cache
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration_MarkupCompile.lref
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\Controls\TrafficChartControl.baml
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\NetworkAccelerationPage.baml
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\NetworkAccelerationSettingsPage.baml
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.g.resources
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.Resources.Resource.resources
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.Resources.Resource.de.resources
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.Resources.Resource.ja.resources
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.Resources.Resource.ko.resources
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.Resources.Resource.zh-hans.resources
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.Resources.Resource.zh-hant.resources
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.csproj.GenerateResource.cache
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.AssemblyInfoInputs.cache
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.AssemblyInfo.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.csproj.CoreCompileInputs.cache
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.sourcelink.json
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\de\LenovoLegionToolkit.Plugins.NetworkAcceleration.resources.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\de\LenovoLegionToolkit.Plugins.NetworkAcceleration.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\ja\LenovoLegionToolkit.Plugins.NetworkAcceleration.resources.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\ja\LenovoLegionToolkit.Plugins.NetworkAcceleration.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\ko\LenovoLegionToolkit.Plugins.NetworkAcceleration.resources.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\ko\LenovoLegionToolkit.Plugins.NetworkAcceleration.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\zh-hans\LenovoLegionToolkit.Plugins.NetworkAcceleration.resources.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\zh-hans\LenovoLegionToolkit.Plugins.NetworkAcceleration.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\zh-hant\LenovoLegionToolkit.Plugins.NetworkAcceleration.resources.cs
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\zh-hant\LenovoLegionToolkit.Plugins.NetworkAcceleration.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLe.A11F591A.Up2Date
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\refint\LenovoLegionToolkit.Plugins.NetworkAcceleration.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\plugins\NetworkAcceleration\obj\x64\Debug\LenovoLegionToolkit.Plugins.NetworkAcceleration.pdb

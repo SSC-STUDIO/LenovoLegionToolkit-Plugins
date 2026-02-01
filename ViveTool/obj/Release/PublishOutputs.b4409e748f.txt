@@ -1,0 +1,142 @@
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Lenovo Legion Toolkit.exe
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Lenovo Legion Toolkit.deps.json
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Lenovo Legion Toolkit.runtimeconfig.json
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\LenovoLegionToolkit.Plugins.ViveTool.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\zh-hans\LenovoLegionToolkit.Plugins.ViveTool.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Autofac.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Ben.Demystifier.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\CoordinateSharp.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Humanizer.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ManagedNativeWifi.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Markdig.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Markdig.Wpf.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Microsoft.Xaml.Behaviors.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\NAudio.Core.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\NAudio.Wasapi.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\AsyncLock.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Newtonsoft.Json.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\NvAPIWrapper.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Octokit.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ColorPicker.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ColorPicker.Models.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\PubSub.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\System.Diagnostics.EventLog.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\System.Management.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\System.ServiceProcess.ServiceController.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Microsoft.Win32.TaskScheduler.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\WindowsDisplayAPI.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Wpf.Ui.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\zh-Hans\Humanizer.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\Lenovo Legion Toolkit.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\LenovoLegionToolkit.CLI.Lib.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\LenovoLegionToolkit.Lib.Automation.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\LenovoLegionToolkit.Lib.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\LenovoLegionToolkit.Lib.Macro.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\LenovoLegionToolkit.Plugins.SDK.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ar\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\bg\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\bs\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ca\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\cs\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\de\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\el\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\es\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\fr\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\hu\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\it\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ja\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ko\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\lv\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\nl-nl\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pl\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pt\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pt-br\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ro\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ru\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\sk\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\tr\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\uk\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\uz-latn-uz\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\vi\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\zh-hans\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\zh-hant\LenovoLegionToolkit.Lib.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ar\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\bg\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\bs\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ca\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\cs\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\de\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\el\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\es\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\fr\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\hu\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\it\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ja\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ko\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\lv\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\nl-nl\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pl\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pt\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pt-br\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ro\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ru\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\sk\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\tr\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\uk\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\uz-latn-uz\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\vi\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\zh-Hans\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\zh-Hant\Lenovo Legion Toolkit.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ar\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\bg\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\bs\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ca\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\cs\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\de\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\el\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\es\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\fr\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\hu\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\it\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ja\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ko\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\lv\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\nl-nl\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pl\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pt\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pt-br\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ro\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ru\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\sk\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\tr\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\uk\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\uz-latn-uz\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\vi\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\zh-hans\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\zh-hant\LenovoLegionToolkit.Lib.Automation.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ar\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\bg\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\bs\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\cs\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\de\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\el\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\es\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\fr\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\hu\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\it\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ja\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ko\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\lv\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\nl-nl\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pl\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pt\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\pt-br\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ro\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\ru\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\sk\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\tr\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\uk\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\uz-latn-uz\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\vi\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\zh-hans\LenovoLegionToolkit.Lib.Macro.resources.dll
+C:\Users\96152\My-Project\Application_Project\Transplant_Project\LenovoLegionToolkit\build\plugins\LenovoLegionToolkit.Plugins.ViveTool\win-x64\publish\zh-hant\LenovoLegionToolkit.Lib.Macro.resources.dll
