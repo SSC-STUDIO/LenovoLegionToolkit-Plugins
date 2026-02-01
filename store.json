@@ -84,27 +84,6 @@
         "customization"
       ],
 "minimumHostVersion": "2.0.0"
-    },
-    {
-      "icon": "Book24",
-      "iconBackground": "#0078D4",
-      "fileSize": 545440,
-      "name": "SDK",
-      "downloadUrl": "https://github.com/Crs10259/LenovoLegionToolkit-Plugins/releases/download/SDK-v1.0.0/SDK.zip",
-      "isSystemPlugin": false,
-      "description": "Software Development Kit for creating Lenovo Legion Toolkit plugins / 联想拯救者工具包插件开发SDK",
-      "version": "1.0.0",
-      "changelog": "Version 1.0.0 (2026-02-01)\n- Initial SDK release\n- Provides interfaces and utilities for plugin development\n- Documentation and examples included",
-      "releaseDate": "2026-02-01T16:00:00Z",
-      "fileHash": "31ecd7c62f136f7501234b81c47238790475c43df52e2950a565b00389f35208",
-      "author": "Crs10259",
-      "dependencies": null,
-      "id": "sdk",
-      "tags": [
-        "development",
-        "utility"
-      ],
-      "minimumHostVersion": "2.0.0"
     }
   ],
   "lastUpdated": "2026-02-01T16:00:00Z",
