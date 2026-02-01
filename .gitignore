@@ -21,6 +21,11 @@ project.assets.json
 *.zip
 !*.zip
 
+# Plugin build outputs
+plugins/*/bin/
+plugins/*/obj/
+plugins/*/*.user
+
 # IDE
 .idea/
 .vs/

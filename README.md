@@ -41,14 +41,13 @@ Download plugins from the [Releases](https://github.com/Crs10259/LenovoLegionToo
 
 ```
 LenovoLegionToolkit-Plugins/
-├── SDK/                          # Plugin SDK (development dependency)
-│   └── LenovoLegionToolkit.Plugins.SDK.csproj
-├── ViveTool/                     # Example plugin
-│   └── LenovoLegionToolkit.Plugins.ViveTool.csproj
-├── CustomMouse/
-├── NetworkAcceleration/
-├── ShellIntegration/
-└── store.json                    # Plugin store metadata
+├── plugins/                       # Plugin packages
+│   ├── SDK/
+│   ├── ViveTool/
+│   ├── CustomMouse/
+│   ├── NetworkAcceleration/
+│   └── ShellIntegration/
+└── store.json                     # Plugin store metadata
 ```
 
 ### Creating a New Plugin
