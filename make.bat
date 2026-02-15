@@ -30,9 +30,9 @@ IF "%1"=="clean" GOTO CLEAN
 IF "%1"=="zip" GOTO CREATE_ZIPS
 
 REM Build specific plugin
-SET PLUGIN_NAME=%1
+SET PLUGIN_NAME=%~1
 SET CONFIG=Release
-IF "%2"=="d" SET CONFIG=Debug
+IF /I "%~2"=="d" SET CONFIG=Debug
 CALL :BUILD_PLUGIN "%PLUGIN_NAME%" "%CONFIG%"
 GOTO END
 
@@ -65,8 +65,8 @@ ECHO ============================================================
 GOTO END
 
 :BUILD_PLUGIN
-SET PLUGIN_NAME=%1
-SET CONFIG=%2
+SET PLUGIN_NAME=%~1
+SET CONFIG=%~2
 SET PLUGIN_DIR=plugins\%PLUGIN_NAME%
 SET PLUGIN_PROJECT=%PLUGIN_DIR%\LenovoLegionToolkit.Plugins.%PLUGIN_NAME%.csproj
 
@@ -108,7 +108,7 @@ ECHO ============================================================
 GOTO END
 
 :CREATE_ZIP
-SET PLUGIN_NAME=%1
+SET PLUGIN_NAME=%~1
 SET PLUGIN_DIR=plugins\%PLUGIN_NAME%
 SET OUTPUT_DIR=build\plugins\%PLUGIN_NAME%
 SET ZIP_NAME=%PLUGIN_NAME%.zip
@@ -117,7 +117,7 @@ ECHO Creating %ZIP_NAME%...
 
 REM Clean previous output
 IF EXIST "%OUTPUT_DIR%" RMDIR /S /Q "%OUTPUT_DIR%"
-IF EXIST "%ZIP_NAME%" DEL /Q "%ZIP_NAME%"
+IF EXIST "build\plugins\%ZIP_NAME%" DEL /Q "build\plugins\%ZIP_NAME%"
 
 REM Create output directory
 MKDIR "%OUTPUT_DIR%"
@@ -131,13 +131,13 @@ IF EXIST "%OUTPUT_DIR%\LenovoLegionToolkit.Plugins.SDK.dll" (
 )
 
 REM Create ZIP package
-powershell -Command "Compress-Archive -Path '%OUTPUT_DIR%\*' -DestinationPath '%ZIP_NAME%' -Force"
+powershell -Command "Compress-Archive -Path '%OUTPUT_DIR%\*' -DestinationPath 'build\plugins\%ZIP_NAME%' -Force"
 IF ERRORLEVEL 1 (
     ECHO Error: Failed to create %ZIP_NAME%
     EXIT /B 1
 )
 
-ECHO Created %ZIP_NAME% (%~z1 bytes)
+FOR %%F IN ("build\plugins\%ZIP_NAME%") DO ECHO Created %%~nxF (%%~zF bytes)
 EXIT /B 0
 
 :CLEAN
@@ -148,14 +148,13 @@ ECHO ============================================================
 
 FOR %%P IN (%PLUGINS%) DO (
     SET PLUGIN_DIR=plugins\%%P
-    IF EXIST "%PLUGIN_DIR%\bin" RMDIR /S /Q "%PLUGIN_DIR%\bin"
-    IF EXIST "%PLUGIN_DIR%\obj" RMDIR /S /Q "%PLUGIN_DIR%\obj"
+    IF EXIST "!PLUGIN_DIR!\bin" RMDIR /S /Q "!PLUGIN_DIR!\bin"
+    IF EXIST "!PLUGIN_DIR!\obj" RMDIR /S /Q "!PLUGIN_DIR!\obj"
     IF EXIST "build\plugins\%%P" RMDIR /S /Q "build\plugins\%%P"
-    IF EXIST "%%P.zip" DEL /Q "%%P.zip"
+    IF EXIST "build\plugins\%%P.zip" DEL /Q "build\plugins\%%P.zip"
 )
 
 IF EXIST "build" RMDIR /S /Q "build"
-IF EXIST "*.zip" DEL /Q "*.zip"
 
 ECHO.
 ECHO ============================================================
